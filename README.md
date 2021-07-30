@@ -2,7 +2,14 @@
 - 👀 I’m interested in fun things
 - 🌱 I’m currently learning DevSecOps
 - 💞️ I’m looking to collaborate on all fun things
-- 📫 How to reach me: maybe I'm most active on Gmail, and Facebook :P
+- 📫 How to reach me: maybe I'm most active on [Discord](https://discord.gg/c9rAJvbRWn), Gmail, and Facebook :P
+- I have created many challs for [TBS](https://www.bright-shadows.net/), [Rankk](https://www.rankk.org/) and [WeChall](https://www.wechall.net/), which I used to list on my old website, and maybe will list again here when I have time. Also note that I still have 2 unpublished challenges 😛
+- On my old website there used to be some interesting things I used to code, which I'll try to recover and put back to Github in the future 😛
+- On my old website you might find my favourite Hex editor
+- [Here's](https://www.flickr.com/photos/22823442@N02/) the link to my Flickr photos, which you might find interesting 😛
+- [Here's](http://www.geocities.com/quangntenemy/best2.jpg) the link to my minigolf record, which is currently down and I haven't found a way to recover 😛
+- Maybe you'll also be interested in [Steganabara](https://github.com/quangntenemy/Steganabara), a cool and also one of the first few steganalysis tools which now I'm struggling to allocate time for a new version 😛
+- I used to spend a lot of time creating cool things, I thought I was busy but now I'm totally overloaded 😛
 
 <!---
 quangntenemy/quangntenemy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
