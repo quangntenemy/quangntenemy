@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Leadership, and also on my quest to find the meaning of life 😛
 - 💞️ I’m looking to collaborate on all fun things
 - 📫 How to reach me: maybe I'm most active on [Discord](https://discord.gg/c9rAJvbRWn), Gmail, [Facebook](https://www.facebook.com/quangntenemy) and [LinkedIn](https://www.linkedin.com/in/frank-nguyen-29251a16/). You should visit [my blog](https://quangntenemy.blogspot.com/) sometimes too 😛
-- I have created many challs for [TBS](https://www.bright-shadows.net/), [Rankk](https://www.rankk.org/) and [WeChall](https://www.wechall.net/), which I used to list on my old website, and maybe will list again here when I have time. Also note that I still have 2 unpublished challenges (and a lot of ideas too 😛)
+- I have created many challs for [TBS](https://www.bright-shadows.net/), [Rankk](https://rankk.org/user/quangntenemy) and [WeChall](https://www.wechall.net/profile/quangntenemy), which I used to list on my old website, and maybe will list again here when I have time. Also note that I still have 2 unpublished challenges (and a lot of ideas too 😛)
 - On my old website there used to be some interesting things I used to code, which I'll try to recover and put back to Github in the future 😛
 - On my old website you might find my favourite Hex editor, which could help you solve some stegano challenges 😛 - **Hint:** it's [Hiew](https://www.hiew.ru/)
 - [Here's](https://www.flickr.com/photos/22823442@N02/) the link to my Flickr photos, which you might find interesting 😛
